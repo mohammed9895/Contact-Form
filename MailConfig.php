@@ -30,7 +30,7 @@ Class Email {
 	
 	protected $senderName = 			'Mohammed Hamad'; 		// Set Your Application Name to appear in the email.
 	protected $emailAddress = 			'toshiba9895@gmail.com';				// Set Your gmail email address.
-	protected $emailPassword = 			'Normal900';				// Set Your email Password.
+	protected $emailPassword = 			'';				// Set Your email Password.
 
 	public function initMail() {
 
